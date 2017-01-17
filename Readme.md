@@ -11,5 +11,4 @@ Written in python with twisted and autobahn modules.
 
 #### Run
 `python server.py`
-
-Open index.html in any browser any number of times
+`Open index.html in any browser any number of times`
