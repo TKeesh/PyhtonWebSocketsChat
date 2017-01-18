@@ -30,6 +30,7 @@
 	        mySocket.onmessage = function (event) {
 	            var output = document.getElementById("chat_box");
 	            output.innerHTML = output.innerHTML + event.data + '<br/>'
+	            output.scrollTop = output.scrollHeight;
 	        };
 	        var form = document.getElementsByClassName("foo");
 	        var input = document.getElementById("input");
