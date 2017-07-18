@@ -1,6 +1,6 @@
 Python WebSockets Chat
 ----------------------
-Very simple and very usable websockets chat api. Working!
+Very simple websockets chat api.
 
 Written in python with twisted and autobahn modules.
 
