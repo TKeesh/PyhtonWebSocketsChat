@@ -1,4 +1,4 @@
-Python WebSockets Chat
+Python WebSocket Chat
 ----------------------
 Very simple websockets chat api.
 
